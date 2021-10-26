@@ -1,0 +1,7 @@
+git initi
+git status
+git add .
+git commot -m "name "
+git log
+git branch
+git checkout
